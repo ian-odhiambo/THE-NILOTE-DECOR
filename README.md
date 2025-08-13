@@ -1,0 +1,2 @@
+# introduction 
+This is a software that helps creatives in creating exposure in the field of art they engage since art is the main branch and has different divergence but the same conept is retained. The corefunction o creating this software is to also asses the style the style used in his/her artwork and the worth of his or her artwork  
