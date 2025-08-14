@@ -1,2 +1,11 @@
-# introduction 
-This is a software that helps creatives in creating exposure in the field of art they engage since art is the main branch and has different divergence but the same conept is retained. The corefunction o creating this software is to also asses the style the style used in his/her artwork and the worth of his or her artwork  
+# Brainleakcreativity.AI
+Brainleakcreativity.AI
+ 
+
+## Executive summary
+### project overview 
+Brainleakcreativity.AI is a software that helps creatives in creating exposure,asseesing the artistic style and the methodology and the worth of his 
+her artwork through the software platform we are building connecting them to art lovers,brokers and prospective buyers
+### objectives and benefits 
+The core pillar of creating such a software is to connect the artist to the job market and to the right prospective artlovers,buyers and brokwers in that their is transactional benefits in form monetary transaction,patnership,millage etc
+### The solution our sotware offers 
