@@ -8,4 +8,5 @@ Brainleakcreativity.AI is a software that helps creatives in creating exposure,a
 her artwork through the software platform we are building to connect them to art lovers,brokers and prospective buyers
 ### objectives and benefits 
 The core pillar of creating such a software is to connect the artist to the job market and to the right prospective artlovers,buyers and brokwers in that their is transactional benefits in form monetary transaction,patnership,millage etc
-### The solution our sotware offers 
+### The solution our sotware offers
+The solution Brainleakcreativity.AI offers is ensuring artist get what they truly deserve because art is "priceless",this,we are talking about millage,exposure and building large following thus the factors that would bring monetary gain on board  
